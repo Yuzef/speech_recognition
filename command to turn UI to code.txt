@@ -1,3 +1,6 @@
 pyuic5 -x filename.ui -o new_filename.py
 -x execute
 -o output file
+
+
+check
