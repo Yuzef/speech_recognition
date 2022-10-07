@@ -2,4 +2,4 @@ pyuic5 -x filename.ui -o new_filename.py
 -x execute
 -o output file
 
-testing git
+testing git - go back to commit and make commit from there
